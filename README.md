@@ -25,4 +25,5 @@ Chaque matin **avant 07:00 CET**, un rapport court est publié : drivers de la s
 - **Standard pro** : aligné sur les pratiques de desks FX/macro.
 
 ---
-Part of my macro analysis framework. See also: *Macro-Analysis Repository*.
+
+Part of my macro analysis framework. See also: [Fundamental-Macro-Analysis]([https://github.com/<ton-user>/Fundamental-Macro-Analysis](https://github.com/KenaelMartini/Fundamental-Macro-Analysis))
