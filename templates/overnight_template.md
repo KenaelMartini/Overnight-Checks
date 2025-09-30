@@ -1,0 +1,39 @@
+# Overnight Check – YYYY-MM-DD
+
+## 1. Asia Session (00h–06h CET)
+- **JPY** : ...
+- **CNH** : ...
+- **Asia Equities** : ...
+- **Asia Commodities** : ...
+
+## 2. Macro Headlines (Overnight)
+- [Headline 1]
+- [Headline 2]
+- [Headline 3]
+
+## 3. Calendar Today
+- HH:MM CET – [Data / Country] – [High/Medium/Low impact]
+- HH:MM CET – [Data / Country] – [High/Medium/Low impact]
+- HH:MM CET – [Data / Country] – [High/Medium/Low impact]
+
+## 4. Market Sentiment
+- **DXY** : [Bullish / Bearish / Neutral] – justification (1 line)
+- **S&P Futures / VIX** : [risk-on/off]
+- **Gold / Brent** : ...
+
+## 5. FX Bias (Desk View)
+- **USD** : [Bullish / Bearish / Neutral] – (1 line)
+- **EUR** : ...
+- **GBP** : ...
+- **JPY** : ...
+- **CHF** : ...
+- **CAD** : ...
+- **AUD** : ...
+- **NZD** : ...
+
+## 6. Scenarios
+- If [driver X] → [reaction Y]
+- If [driver Z] → [reaction W]
+
+---
+*Filed at HH:MM CET*
