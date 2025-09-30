@@ -26,4 +26,4 @@ Chaque matin **avant 07:00 CET**, un rapport court est publié : drivers de la s
 
 ---
 
-Part of my macro analysis framework. See also: [Fundamental-Macro-Analysis]([https://github.com/<ton-user>/Fundamental-Macro-Analysis](https://github.com/KenaelMartini/Fundamental-Macro-Analysis)
+Part of my macro analysis framework. See also: [Fundamental-Macro-Analysis](https://github.com/KenaelMartini/Fundamental-Macro-Analysis).
